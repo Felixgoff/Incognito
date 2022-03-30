@@ -230,7 +230,7 @@
     },
     {
       "img": "./img/gs/poke-sapphire.jpg",
-      "location": "/source/webretro/?core=autodetect&rom=poke_sapphire.gba",
+      "location": "https://aubruh.tech/source/webretro/?core=autodetect&rom=poke_sapphire.gba",
       "title": "PokÃ©mon Sapphire"
     },
     {
